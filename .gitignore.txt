@@ -1,0 +1,15 @@
+# Ignore Unity generated files
+Library/
+Temp/
+obj/
+
+# Ignore Visual Studio files
+.vs/
+*.sln
+*.csproj
+
+# Ignore user-specific settings
+UserSettings/
+
+# Ignore package manager files
+Packages/
